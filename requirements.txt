@@ -1,0 +1,2 @@
+# No external packages required yet.
+# The scaffold currently uses only the Python standard library.
